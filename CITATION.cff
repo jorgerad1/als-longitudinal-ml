@@ -2,12 +2,29 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the associated article and the archived software release."
 title: "ALS Longitudinal ML"
 type: software
-authors:
-  - name: "ALS Longitudinal ML contributors"
 version: 1.0.0
 date-released: 2026-09-20
 license: MIT
 repository-code: "https://github.com/jorgerad1/als-longitudinal-ml"
+
+authors:
+  - given-names: "Jorge"
+    family-names: "Radlowski-Nova"
+    orcid: "https://orcid.org/0009-0007-8950-0691"
+  - given-names: "Juan I."
+    family-names: "López-Carbonero"
+    orcid: "https://orcid.org/0000-0002-2825-1851"
+  - given-names: "Fernando J."
+    family-names: "Gómez-Márquez"
+  - given-names: "José L."
+    family-names: "Risco-Martín"
+    orcid: "https://orcid.org/0000-0002-3127-6507"
+  - given-names: "Silvia"
+    family-names: "Corrochano"
+    orcid: "https://orcid.org/0000-0003-0958-0083"
+  - given-names: "José L."
+    family-names: "Ayala"
+    orcid: "https://orcid.org/0000-0001-7236-5330"
 
 keywords:
   - amyotrophic lateral sclerosis
@@ -27,4 +44,20 @@ preferred-citation:
   type: article
   title: "Compact longitudinal representations derived from mixed-format lifestyle questionnaires outperform static text-derived features for ALS-versus-control classification"
   authors:
-    - name: "Authors of the associated manuscript"
+    - given-names: "Jorge"
+      family-names: "Radlowski-Nova"
+      orcid: "https://orcid.org/0009-0007-8950-0691"
+    - given-names: "Juan I."
+      family-names: "López-Carbonero"
+      orcid: "https://orcid.org/0000-0002-2825-1851"
+    - given-names: "Fernando J."
+      family-names: "Gómez-Márquez"
+    - given-names: "José L."
+      family-names: "Risco-Martín"
+      orcid: "https://orcid.org/0000-0002-3127-6507"
+    - given-names: "Silvia"
+      family-names: "Corrochano"
+      orcid: "https://orcid.org/0000-0003-0958-0083"
+    - given-names: "José L."
+      family-names: "Ayala"
+      orcid: "https://orcid.org/0000-0001-7236-5330"
