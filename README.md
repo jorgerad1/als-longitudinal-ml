@@ -1,5 +1,7 @@
 # ALS Longitudinal ML
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22864706.svg)](https://doi.org/10.5281/zenodo.22864706)
+
 Reproducibility code for the study:
 
 **Compact longitudinal representations derived from mixed-format lifestyle questionnaires outperform static text-derived features for ALS-versus-control classification**
@@ -240,7 +242,7 @@ The original notebooks themselves are not distributed because they were executed
 
 Citation metadata are provided in `CITATION.cff`.
 
-A versioned archival DOI will be added after creation of the corresponding Zenodo release.
+Version `v1.0.0` is permanently archived on Zenodo: [10.5281/zenodo.22864706](https://doi.org/10.5281/zenodo.22864706).
 
 ## License
 

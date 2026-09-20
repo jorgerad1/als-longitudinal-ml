@@ -6,6 +6,8 @@ version: 1.0.0
 date-released: 2026-09-20
 license: MIT
 repository-code: "https://github.com/jorgerad1/als-longitudinal-ml"
+doi: "10.5281/zenodo.22864706"
+url: "https://doi.org/10.5281/zenodo.22864706"
 
 authors:
   - given-names: "Jorge"
