@@ -1,0 +1,18 @@
+{
+  "pool1_baseline_random_forest": [
+    [96, 54],
+    [55, 55]
+  ],
+  "pool2_full_logistic_regression": [
+    [104, 46],
+    [59, 51]
+  ],
+  "pool3_full_random_forest": [
+    [115, 35],
+    [50, 60]
+  ],
+  "pool3_without_temporal_block_random_forest": [
+    [105, 45],
+    [70, 40]
+  ]
+}

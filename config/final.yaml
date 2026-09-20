@@ -1,0 +1,94 @@
+random_seeds:
+  - 42
+  - 43
+  - 44
+  - 45
+  - 46
+  - 47
+  - 48
+  - 49
+  - 50
+  - 51
+
+evaluation:
+  test_size: 0.25
+  outer_cv_folds: 5
+  inner_cv_folds: 3
+  tuning_scoring: f1_macro
+
+preprocessing:
+  missing_threshold: 0.20
+  categorical_max_unique: 15
+  ohe_min_frequency: 3
+  variance_threshold: 0.0
+  min_active_count: 3
+  correlation_threshold: 0.90
+
+llm:
+  model: gpt-4o-mini
+  temperature: 0.2
+  chunk_size: 10
+
+models:
+  logistic_regression:
+    solver: saga
+    penalty: elasticnet
+    max_iter: 5000
+    random_state: 42
+    C:
+      - 0.001
+      - 0.01
+      - 0.1
+      - 1.0
+      - 10.0
+    l1_ratio:
+      - 0.5
+      - 0.8
+      - 1.0
+    class_weight:
+      - null
+      - balanced
+
+  linear_svc:
+    dual: auto
+    max_iter: 5000
+    random_state: 42
+    C:
+      - 0.001
+      - 0.01
+      - 0.1
+      - 1.0
+      - 10.0
+    class_weight:
+      - null
+      - balanced
+
+  random_forest:
+    random_state: 42
+    n_iter: 12
+    n_estimators:
+      - 100
+      - 200
+      - 300
+    max_depth:
+      - null
+      - 3
+      - 5
+      - 8
+    min_samples_split:
+      - 2
+      - 5
+      - 10
+    min_samples_leaf:
+      - 1
+      - 2
+      - 4
+      - 6
+    max_features:
+      - sqrt
+      - 0.2
+      - 0.5
+    class_weight:
+      - null
+      - balanced
+      - balanced_subsample

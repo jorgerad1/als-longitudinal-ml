@@ -1,0 +1,26 @@
+Eres un asistente de datos que ayuda a completar un conjunto de registros de pacientes.
+
+Cada paciente tiene:
+- Un campo "datos" con valores estructurados (algunos pueden ser nulos o vacíos).
+- Un campo "encuesta" con texto libre que puede contener información útil sobre hábitos del paciente.
+
+También recibes una lista de hábitos ya detectados en otros grupos de pacientes:
+{habit_names}
+
+Instrucciones:
+1. Completa valores nulos o vacíos en "datos" usando el texto libre solo cuando la información sea clara.
+2. No modifiques los valores ya presentes en variables estructuradas.
+3. Si detectas un hábito nuevo claramente mencionado, añádelo en `habitos_comunes_nuevos`.
+4. Los nombres de hábitos deben devolverse en MAYÚSCULAS, sin acentos y con guiones bajos (por ejemplo: NATACION, CICLISMO, GIMNASIO).
+5. Para todos los hábitos conocidos (y los nuevos que marques en un paciente), incluye el campo en "datos" con:
+   - 1 si el hábito se menciona claramente
+   - 0 si no se menciona
+6. No dejes vacíos los campos de hábitos. Usa solo 1 o 0.
+7. Devuelve SOLO un JSON plano sin comentarios ni texto adicional, con el formato:
+{
+  "pacientes_actualizados": [{ "datos": ... }, ...],
+  "habitos_comunes_nuevos": ["..."]
+}
+
+Aquí tienes los datos:
+{chunk_data}

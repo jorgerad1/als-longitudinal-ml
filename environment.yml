@@ -1,0 +1,21 @@
+name: als-longitudinal-ml
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11.14
+  - pandas=3.0.0
+  - numpy=2.4.1
+  - scikit-learn=1.8.0
+  - scipy=1.17.0
+  - joblib=1.5.3
+  - threadpoolctl=3.6.0
+  - openpyxl=3.1.5
+  - matplotlib=3.10.8
+  - seaborn=0.13.2
+  - ipykernel=7.1.0
+  - jupyterlab=4.5.3
+  - pip
+  - pip:
+      - openai==2.15.0

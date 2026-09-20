@@ -1,0 +1,4 @@
+stage,pool1,pool2,pool3,pool3_precompaction_reference
+stage1,33.0,127.4,208.7,
+stage2,24.3,128.6,229.1,
+stage3,24.3,124.1,148.2,212.9

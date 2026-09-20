@@ -1,0 +1,40 @@
+# Clinical / restricted data
+data.xlsx
+Output.xlsx
+*.xlsx
+*.xls
+
+# Allow explicitly synthetic Excel files
+!synthetic_data/*.xlsx
+
+# Potential patient-level tabular data
+*.csv
+*.tsv
+*.parquet
+
+# Allow aggregate/public result tables
+!results/*.csv
+!results/*.tsv
+
+# Executed notebooks / reports that may contain clinical data
+*.html
+
+# Credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+*.swp
+
+# Private staging
+private/
+restricted/
+!provenance/hashes.tsv

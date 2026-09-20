@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and the archived software release."
+title: "ALS Longitudinal ML"
+type: software
+authors:
+  - name: "ALS Longitudinal ML contributors"
+version: 1.0.0
+date-released: 2026-09-20
+license: MIT
+repository-code: "https://github.com/TO-BE-ASSIGNED/als-longitudinal-ml"
+
+keywords:
+  - amyotrophic lateral sclerosis
+  - ALS
+  - machine learning
+  - natural language processing
+  - longitudinal data
+  - biomedical informatics
+  - questionnaires
+
+abstract: >
+  Public reproducibility implementation for leakage-free ALS-versus-control
+  classification from mixed-format lifestyle questionnaires using compact
+  text-derived and longitudinal representations.
+
+preferred-citation:
+  type: article
+  title: "Compact longitudinal representations derived from mixed-format lifestyle questionnaires outperform static text-derived features for ALS-versus-control classification"
+  authors:
+    - name: "Authors of the associated manuscript"

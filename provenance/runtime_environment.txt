@@ -1,0 +1,31 @@
+Execution environment used for the published analyses
+
+
+Operating system:
+Linux 6.8.0-138-generic
+Ubuntu 22.04 series
+x86_64
+glibc 2.35
+
+Environment:
+Conda environment: als_llm
+
+Python:
+3.11.14
+
+Core packages:
+pandas 3.0.0
+numpy 2.4.1
+scikit-learn 1.8.0
+scipy 1.17.0
+joblib 1.5.3
+threadpoolctl 3.6.0
+openpyxl 3.1.5
+matplotlib 3.10.8
+seaborn 0.13.2
+openai 2.15.0
+ipykernel 7.1.0
+jupyterlab 4.5.3
+
+Excel engine:
+openpyxl
