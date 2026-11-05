@@ -2,13 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the associated article and the archived software release."
 title: "ALS Longitudinal ML"
 type: software
-version: 1.0.0
-date-released: 2026-09-20
 license: MIT
 repository-code: "https://github.com/jorgerad1/als-longitudinal-ml"
-doi: "10.5281/zenodo.22864706"
-url: "https://doi.org/10.5281/zenodo.22864706"
-
 authors:
   - given-names: "Jorge"
     family-names: "Radlowski-Nova"
@@ -27,7 +22,6 @@ authors:
   - given-names: "José L."
     family-names: "Ayala"
     orcid: "https://orcid.org/0000-0001-7236-5330"
-
 keywords:
   - amyotrophic lateral sclerosis
   - ALS
@@ -36,12 +30,10 @@ keywords:
   - longitudinal data
   - biomedical informatics
   - questionnaires
-
 abstract: >
   Public reproducibility implementation for leakage-free ALS-versus-control
   classification from mixed-format lifestyle questionnaires using compact
   text-derived and longitudinal representations.
-
 preferred-citation:
   type: article
   title: "Compact longitudinal representations derived from mixed-format lifestyle questionnaires outperform static text-derived features for ALS-versus-control classification"
@@ -63,3 +55,4 @@ preferred-citation:
     - given-names: "José L."
       family-names: "Ayala"
       orcid: "https://orcid.org/0000-0001-7236-5330"
+version: 2.0.0
