@@ -1,0 +1,117 @@
+{
+  "note": "ENTIRELY INVENTED. Not derived from, sampled from or fitted to real clinical data.",
+  "original_structured": [
+    {
+      "ID": "SYN_A",
+      "DEPORTE1": null,
+      "PESO1": 60,
+      "SOCIALIZA1": 1
+    },
+    {
+      "ID": "SYN_B",
+      "DEPORTE1": 1,
+      "PESO1": 70,
+      "SOCIALIZA1": null
+    },
+    {
+      "ID": "SYN_C",
+      "DEPORTE1": 0,
+      "PESO1": null,
+      "SOCIALIZA1": 2
+    },
+    {
+      "ID": "SYN_ZERO",
+      "DEPORTE1": null,
+      "PESO1": 85,
+      "SOCIALIZA1": 0
+    }
+  ],
+  "t1_response": {
+    "pacientes_actualizados": [
+      {
+        "datos": {
+          "ID": "SYN_C",
+          "PESO1": 65,
+          "YOGA": 1,
+          "PILATES": 0
+        }
+      },
+      {
+        "datos": {
+          "ID": "SYN_A",
+          "DEPORTE1": 1,
+          "PESO1": 999,
+          "NATACION": 1,
+          "NADAR": 1,
+          "CICLISMO": 1
+        }
+      },
+      {
+        "datos": {
+          "ID": "SYN_ZERO",
+          "DEPORTE1": 0
+        }
+      },
+      {
+        "datos": {
+          "ID": "SYN_B",
+          "DEPORTE1": 0,
+          "SOCIALIZA1": 3,
+          "GIMNASIO": 1
+        }
+      }
+    ],
+    "habitos_comunes_nuevos": [
+      "NATACION",
+      "NADAR",
+      "CICLISMO",
+      "YOGA",
+      "PILATES",
+      "GIMNASIO"
+    ]
+  },
+  "t12_response": {
+    "pacientes_actualizados": [
+      {
+        "datos": {
+          "ID": "SYN_ZERO",
+          "CAMINAR": 0
+        }
+      },
+      {
+        "datos": {
+          "ID": "SYN_A",
+          "DEPORTE1": 1,
+          "PESO1": 999,
+          "NATACION": 1,
+          "FUTBOL": 1
+        }
+      },
+      {
+        "datos": {
+          "ID": "SYN_B",
+          "DEPORTE1": 0,
+          "SENDERISMO": 1,
+          "GIMNASIO": 1
+        }
+      },
+      {
+        "datos": {
+          "ID": "SYN_C",
+          "PESO1": 65,
+          "YOGA": 1,
+          "TENIS": 1
+        }
+      }
+    ],
+    "habitos_comunes_nuevos": [
+      "NATACION",
+      "FUTBOL",
+      "SENDERISMO",
+      "GIMNASIO",
+      "YOGA",
+      "TENIS",
+      "CAMINAR"
+    ]
+  }
+}

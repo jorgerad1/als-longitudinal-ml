@@ -1,0 +1,1034 @@
+[
+  {
+    "ID": "SYN_A",
+    "base": "TIPOCASA",
+    "T1": 2.0,
+    "T2": 3.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "ESTUDIOS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "FORM_CONT",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "SOCIOECO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "TIPOTRABAJO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "VIVESOLO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "DEPORTE",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "DEPORTEFREC",
+    "T1": 1.0,
+    "T2": 4.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "DAR",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "TIPOPESO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "PESO",
+    "T1": 70.0,
+    "T2": 75.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "ALTURA",
+    "T1": 170.0,
+    "T2": 171.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "FORMA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "ACUMULOGRASO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "CAMBIOBRUSCOPESO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "DROGAS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "CANNABIS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "COCAINA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "OPIACEOS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "DISEÑO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "OTRASDROGAS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "TABACO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "ALCOHOL",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "HORASSUEÑO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "PREOCUPAC",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "PERSONALIDAD",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "SOCIALIZA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "ALIMENTACION",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "BEBIDASAZUCAR",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "DULCES",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "TIPOCOMIDA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "FASTFOOD",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "FRITO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "PLANCHA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "EMPANADO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "HERVIDO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "GUISADO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "CRUDO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "OTRACOCINA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "COMIDAS_DIA",
+    "T1": 3.0,
+    "T2": 2.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "CANT_COMIDA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "SACIEDAD",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_A",
+    "base": "IMC_CAT",
+    "T1": 1.0,
+    "T2": 2.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "TIPOCASA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "ESTUDIOS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "FORM_CONT",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "SOCIOECO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "TIPOTRABAJO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "VIVESOLO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "DEPORTE",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "DEPORTEFREC",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "DAR",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "TIPOPESO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "PESO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_B",
+    "base": "ALTURA",
+    "T1": null,
+    "T2": 2.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "FORMA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "ACUMULOGRASO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "CAMBIOBRUSCOPESO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "DROGAS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "CANNABIS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "COCAINA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "OPIACEOS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "DISEÑO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_B",
+    "base": "OTRASDROGAS",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "TABACO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "ALCOHOL",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "HORASSUEÑO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "PREOCUPAC",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "PERSONALIDAD",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "SOCIALIZA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "ALIMENTACION",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "BEBIDASAZUCAR",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "DULCES",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "TIPOCOMIDA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "FASTFOOD",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "FRITO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "PLANCHA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "EMPANADO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "HERVIDO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "GUISADO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "CRUDO",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "OTRACOCINA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "COMIDAS_DIA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_B",
+    "base": "CANT_COMIDA",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "SACIEDAD",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_B",
+    "base": "IMC_CAT",
+    "T1": 1.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "TIPOCASA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "ESTUDIOS",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "FORM_CONT",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "SOCIOECO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "TIPOTRABAJO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "VIVESOLO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "DEPORTE",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "DEPORTEFREC",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "DAR",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "TIPOPESO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "PESO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "ALTURA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "FORMA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "ACUMULOGRASO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "CAMBIOBRUSCOPESO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "DROGAS",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "CANNABIS",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "COCAINA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "OPIACEOS",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "DISEÑO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "OTRASDROGAS",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "TABACO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "ALCOHOL",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "HORASSUEÑO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "PREOCUPAC",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "PERSONALIDAD",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "SOCIALIZA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "ALIMENTACION",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "BEBIDASAZUCAR",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "DULCES",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "TIPOCOMIDA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "FASTFOOD",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "FRITO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "PLANCHA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "EMPANADO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "HERVIDO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "GUISADO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "CRUDO",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "OTRACOCINA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "COMIDAS_DIA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "CANT_COMIDA",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "SACIEDAD",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_ZERO",
+    "base": "IMC_CAT",
+    "T1": null,
+    "T2": null
+  },
+  {
+    "ID": "SYN_C",
+    "base": "TIPOCASA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "ESTUDIOS",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "FORM_CONT",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "SOCIOECO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "TIPOTRABAJO",
+    "T1": 0.0,
+    "T2": 1.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "VIVESOLO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "DEPORTE",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "DEPORTEFREC",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "DAR",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "TIPOPESO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "PESO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "ALTURA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "FORMA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "ACUMULOGRASO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "CAMBIOBRUSCOPESO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "DROGAS",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "CANNABIS",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "COCAINA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "OPIACEOS",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "DISEÑO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "OTRASDROGAS",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "TABACO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "ALCOHOL",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "HORASSUEÑO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "PREOCUPAC",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "PERSONALIDAD",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "SOCIALIZA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "ALIMENTACION",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "BEBIDASAZUCAR",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "DULCES",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "TIPOCOMIDA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "FASTFOOD",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "FRITO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "PLANCHA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "EMPANADO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "HERVIDO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "GUISADO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "CRUDO",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "OTRACOCINA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "COMIDAS_DIA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "CANT_COMIDA",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "SACIEDAD",
+    "T1": 0.0,
+    "T2": 0.0
+  },
+  {
+    "ID": "SYN_C",
+    "base": "IMC_CAT",
+    "T1": null,
+    "T2": null
+  }
+]

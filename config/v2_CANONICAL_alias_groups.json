@@ -1,0 +1,85 @@
+{
+  "HABIT_ALIAS_MAP": {
+    "aerobico": "AEROBICO",
+    "andar": "CAMINAR",
+    "baloncesto": "BALONCESTO",
+    "balonmano": "BALONMANO",
+    "basket": "BALONCESTO",
+    "bici": "CICLISMO",
+    "bicicleta": "CICLISMO",
+    "boxeo": "BOXEO",
+    "caminar": "CAMINAR",
+    "ciclismo": "CICLISMO",
+    "correr": "CORRER",
+    "cross_fit": "CROSS_FIT",
+    "crossfit": "CROSS_FIT",
+    "futbol": "FUTBOL",
+    "gimnasia": "GIMNASIA",
+    "gimnasio": "GIMNASIO",
+    "golf": "GOLF",
+    "hockey_sobre_patines": "HOCKEY_SOBREPATINES",
+    "hockey_sobrepatines": "HOCKEY_SOBREPATINES",
+    "montanismo": "SENDERISMO",
+    "monte": "SENDERISMO",
+    "nadar": "NATACION",
+    "natacion": "NATACION",
+    "paddel": "PADEL",
+    "paddle_surf": "PADDLE_SURF",
+    "padel": "PADEL",
+    "pasear": "CAMINAR",
+    "pilates": "PILATES",
+    "running": "CORRER",
+    "senderismo": "SENDERISMO",
+    "tai_chi": "TAICHI",
+    "taichi": "TAICHI",
+    "tenis": "TENIS",
+    "voleibol": "VOLEIBOL",
+    "voley": "VOLEIBOL",
+    "yoga": "YOGA"
+  },
+  "TEXT_GROUP_MAP": {
+    "TXTG_ENDURANCE": [
+      "TXT_CAMINAR",
+      "TXT_CORRER",
+      "TXT_CICLISMO",
+      "TXT_NATACION",
+      "TXT_ATLETISMO",
+      "TXT_SENDERISMO"
+    ],
+    "TXTG_GYM_STRENGTH": [
+      "TXT_GIMNASIO",
+      "TXT_CROSS_FIT",
+      "TXT_BOXEO",
+      "TXT_GIMNASIA"
+    ],
+    "TXTG_MIND_BODY": [
+      "TXT_PILATES",
+      "TXT_YOGA",
+      "TXT_TAICHI",
+      "TXT_BAILE"
+    ],
+    "TXTG_OUTDOOR": [
+      "TXT_CAMINAR",
+      "TXT_CORRER",
+      "TXT_CICLISMO",
+      "TXT_SENDERISMO",
+      "TXT_GOLF"
+    ],
+    "TXTG_TEAM_RACKET": [
+      "TXT_FUTBOL",
+      "TXT_BALONCESTO",
+      "TXT_BALONMANO",
+      "TXT_VOLEIBOL",
+      "TXT_TENIS",
+      "TXT_PADEL",
+      "TXT_PADDEL",
+      "TXT_PADDLE_SURF"
+    ]
+  },
+  "provenance": {
+    "alias_sha256": "32a95e9693da7bda66f3843bfdddf4a2103d10e1310d424f0bb1c969160c20fb",
+    "group_sha256": "a5d081b1ac0551f20597d56127382c47f0a2dc2e5ac359ce71c9bc86c1e2c15a",
+    "public_source_sha256": "17e57a0699e3d797cbe4650a189725ef1bb924662ea7a0638988f3cb2f94f4e2",
+    "source": "src/text_features.py"
+  }
+}
